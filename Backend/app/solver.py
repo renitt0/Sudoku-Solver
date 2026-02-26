@@ -1,5 +1,3 @@
-# backend/app/solver.py
-
 from typing import Optional
 
 def solve(board: list[list[int]]) -> bool:
